@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f8f88eaf-f16d-48a0-bd26-a9de246758b0)
 Description: Using AWS Secrets Manager for sensitive data and configuring remote state storage using AWS secrets manager service by storing the secret in RDS database and configuring terraform state file to be stored in s3 bucket rather than it being stored Locally.
 
 Benefits of Integrating AWS Secrets Manager with RDS:
