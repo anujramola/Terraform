@@ -1,6 +1,7 @@
 In this simple demonstrationn we will see how to deal with TERRAFORM WORKSPACES, TERRAFORM PROVISIONERS and DATA SOURCES
 Architecture Diagram:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/24a40dda-edf1-43a1-bbb3-021ffcb9cc62)
+
 
 **Terraform workspaces** are a way to manage different states of your infrastructure within the same configuration. Each workspace allows you to maintain separate state files, which is useful for managing environments like development, staging, and production without needing to create separate directories or configurations for each environment.
 
